@@ -1,0 +1,11 @@
+.env
+vendor
+node_modules
+.git
+.omo
+database/database.sqlite
+.phpunit.result.cache
+storage/logs/*.log
+storage/framework/cache/data/*
+storage/framework/sessions/*
+storage/framework/views/*
