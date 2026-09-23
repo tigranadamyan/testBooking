@@ -5,6 +5,7 @@ node_modules
 .omo
 database/database.sqlite
 .phpunit.result.cache
+bootstrap/cache/*.php
 storage/logs/*.log
 storage/framework/cache/data/*
 storage/framework/sessions/*
